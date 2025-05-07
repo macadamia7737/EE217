@@ -1,1 +1,1 @@
-void hello() { printf("Hello again!"); }
+void hello() { printf("Hello!"); }
