@@ -1,1 +1,1 @@
-void name() { printf("My name is YeonwooJung."); }
+void name() { printf("My name is Yeonwoo."); }
